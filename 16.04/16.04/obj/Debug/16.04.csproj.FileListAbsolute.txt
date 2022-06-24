@@ -1,0 +1,10 @@
+C:\Users\flockie\source\repos\16.04\16.04\bin\Debug\16.04.exe.config
+C:\Users\flockie\source\repos\16.04\16.04\bin\Debug\16.04.exe
+C:\Users\flockie\source\repos\16.04\16.04\bin\Debug\16.04.pdb
+C:\Users\flockie\source\repos\16.04\16.04\obj\Debug\16.04.csproj.AssemblyReference.cache
+C:\Users\flockie\source\repos\16.04\16.04\obj\Debug\_16._04.Form1.resources
+C:\Users\flockie\source\repos\16.04\16.04\obj\Debug\_16._04.Properties.Resources.resources
+C:\Users\flockie\source\repos\16.04\16.04\obj\Debug\16.04.csproj.GenerateResource.cache
+C:\Users\flockie\source\repos\16.04\16.04\obj\Debug\16.04.csproj.CoreCompileInputs.cache
+C:\Users\flockie\source\repos\16.04\16.04\obj\Debug\16.04.exe
+C:\Users\flockie\source\repos\16.04\16.04\obj\Debug\16.04.pdb
